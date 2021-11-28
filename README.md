@@ -1,4 +1,4 @@
-# CJAE_Endnote
+# CJAE-Endnote
 
 This is a repository that stores an updated endnote style for CJAE (Canadian Journal of Agricultural Economics/Revue canadienne d'agroeconomie) which produces a reference style that aligns with the [formats specified](https://onlinelibrary.wiley.com/page/journal/17447976/homepage/forauthors.html) by CJAE. 
 
