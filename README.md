@@ -3,11 +3,8 @@
 This is a repository that stores updated endnote output styles for various journals in the field of AENR (**A**gricultural, **E**nvironmental, and **N**atural **R**esource) Economics. The list of journals is presented below and irregularly updated. 
 
 > **Note**
-> This is a note
-
-
-**Note**
 The accuracy with respective specificed format is not guaranteed.
+
 
 ## List of Journals
 
